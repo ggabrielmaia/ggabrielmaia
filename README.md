@@ -1,4 +1,4 @@
-### Olá!  Me chamo Gabriel, tenho 19 anos e estou me aventurando no mundo da programação 😁
+### Olá!  Me chamo Gabriel, tenho 19 anos e sou apaixonado por técnologia
 
 ##
 
