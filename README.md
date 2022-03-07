@@ -1,4 +1,4 @@
-### Olá!  Desenvolvedor Java Web Fullstack em formação 
+### Desenvolvedor Java Web Fullstack em formação 
 ##
 
 <div align="center">
