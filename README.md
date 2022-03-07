@@ -1,5 +1,4 @@
-### Olá!  Me chamo Gabriel, tenho 19 anos e sou apaixonado por técnologia
-
+### Olá!  Desenvolvedor Java Web Fullstack em formação 
 ##
 
 <div align="center">
